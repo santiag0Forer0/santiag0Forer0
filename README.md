@@ -1,6 +1,12 @@
-## Hi there 👋
-
+## Santiago Forero Rodriguez
+tercer corte y github🦎
+<h1>Mapa y modelo 3d</h1>
+<p> El mapa fue diseñado y editado en y montado en codepen.io y en el propio github   </p>
 <img src="mapa y modelo 3d.png" />
+<h2>Modelo 3d</h2>
+<p>para el modelo usado en el mapa se utilizo el diseño de un personaje (Godzilla minus one), se descargo el modelo y textura
+desde la pagina sketchfab.</p>
+<img src="modelo 3d.png" /> <img src=""
 
 <!--
 **santiag0Forer0/santiag0Forer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
